@@ -1,0 +1,77 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set the background color and font for the entire document */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  /* Set the styles for the page header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-size: 18px;
+  }
+  
+  /* Set the styles for the main content area */
+  .main-content {
+    margin: 20px;
+    background-color: 	#add8e7;
+    padding: 20px;
+  }
+  
+  .main-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .main-content p {
+    line-height: 1.5;
+  }
+
+  .article {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: 	#6bcbeb;
+    padding: 20px;
+  }
+  
+  .article h1 {
+    background-color: #6bcbeb
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .article p {
+    background-color: 	#6bcbeb
+    line-height: 1.5;
+  }
+  
+  
+  /* Set the styles for the footer */
+  footer {
+    background-color: #555;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+  }
+
+  
+  
