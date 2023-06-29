@@ -1,8 +1,14 @@
+import Article from "../components/Article";
+
 function MainContent(): JSX.Element {
   return (
     <main>
       <h1>Hello, this is my React App</h1>
-      <p>I have to put the content here.</p>
+      <Article />
+      <Article />
+      <Article />
+      <Article />
+      <Article />
     </main>
   );
 }
