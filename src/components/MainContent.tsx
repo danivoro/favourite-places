@@ -43,7 +43,7 @@ function MainContent(): JSX.Element {
         title="Serenity in the Land of the Rising Sun"
         placeName="Kyoto"
         countryName="Japan"
-        image="https://www.planetware.com/photos-large/J/japan-kyoto-kinkaku-ji-temple.jpg"
+        image="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a3lvdG98ZW58MHx8MHx8fDA%3D&w=1000&q=80"
         location="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.1502700200363!2d135.7680294152365!3d35.01163658035873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010f975ee52bcb%3A0x4eaf464c34f117d1!2sKyoto%2C%20Japan!5e0!3m2!1sen!2sus!4v1688070905680!5m2!1sen!2sus"
         description="Immerse yourself in the tranquility of Kyoto, home to stunning temples, gardens, and traditional culture."
       />
@@ -52,7 +52,7 @@ function MainContent(): JSX.Element {
         title="A Taste of History in Athens"
         placeName="Athens"
         countryName="Greece"
-        image="https://www.planetware.com/photos-large/GR/greece-athens-parthenon.jpg"
+        image="https://media.cntraveler.com/photos/5ad0ca78fb3e8334dea6e22e/16:9/w_2560%2Cc_limit/GettyImages-88786323.jpg"
         location="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31424.279281197987!2d23.72693866632199!3d37.9839172121003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd62f8715c77%3A0xa723f94579f5e8b4!2sAthens%2C%20Greece!5e0!3m2!1sen!2sus!4v1688070953735!5m2!1sen!2sus"
         description="Delve into ancient history as you explore the Acropolis and other historic sites in Athens."
       />
@@ -70,7 +70,7 @@ function MainContent(): JSX.Element {
         title="Jungle Exploration in the Amazon"
         placeName="Amazon Rainforest"
         countryName="Brazil"
-        image="https://www.planetware.com/photos-large/BRA/brazil-amazon-rainforest.jpg"
+        image="https://media.istockphoto.com/id/935746242/photo/mata-atlantica-atlantic-forest-in-brazil.jpg?s=612x612&w=0&k=20&c=NqE6m2Q8J2w6M7x7Pi8VxnMzLzq-HJQvCt5EMuvMU5o="
         location="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195238.71833007056!2d-62.18518594824637!3d-3.4653055063376536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916312f81ab3a97b%3A0x2fd8a4e6a72406f6!2sAmazon%20Rainforest!5e0!3m2!1sen!2sus!4v1688071046737!5m2!1sen!2sus"
         description="Embark on an unforgettable adventure deep into the heart of the Amazon rainforest."
       />
